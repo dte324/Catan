@@ -121,7 +121,7 @@ header nav ul li a {
 #hero-image {
 	height: 580px;
 	padding-top: 1px;
-	background: #e8eced url('../images/morven_park2.jpg') no-repeat center;
+	background: #e8eced url('../images/catan.jpg') no-repeat center;
 }
 
 #hero-image h2 {
@@ -130,7 +130,11 @@ header nav ul li a {
 
 
 .button-1 {
-	position: absolute; right: 5px; top: 5px;
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
 	display: block;
 	text-align: center;
 	background: #444;
