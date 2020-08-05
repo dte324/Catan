@@ -128,7 +128,9 @@ header nav ul li a {
 	margin: 180px 0 40px 0;
 }
 
+
 .button-1 {
+	position: absolute; right: 5px; top: 5px;
 	display: block;
 	text-align: center;
 	background: #444;
