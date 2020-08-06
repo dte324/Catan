@@ -153,13 +153,28 @@ header nav ul li a {
 }
 
 .button-2 {
+   border: 1px outset blue;
+   background: #444;
+   color: #fff;
+   height:50px;
+   width:50px;
+   cursor:pointer;
+   text-align: center;
+}
+
+.button-2:hover {
+   background-color: #02b8dd;
+   color: #fff;
+}
+/*
+.button-2 {
 	display: block;
 	text-align: center;
 	background: #444;
 	border-radius: 2px;
 	color: #fff;
-	width: 70px;
-	height: 70px;
+	height:50px;
+   	width:50px;
 	font-size: 20px;
 	line-height: 40px;
 	margin: 0 auto;
@@ -169,6 +184,7 @@ header nav ul li a {
 	background-color: #02b8dd;
 	color: #fff;
 }
+*/
 
 /*Features*/
 
