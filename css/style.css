@@ -156,12 +156,12 @@ header nav ul li a {
 	display: block;
 	text-align: center;
 	background: #444;
-	border-radius: 3px;
+	border-radius: 2px;
 	color: #fff;
 	width: 70px;
 	height: 70px;
-	font-size: 30px;
-	line-height: 50px;
+	font-size: 20px;
+	line-height: 40px;
 	margin: 0 auto;
 }
 
