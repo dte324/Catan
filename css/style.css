@@ -81,6 +81,12 @@ small {
 	width: 940px;
 }
 
+// Centering Tables
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 /*Header*/
